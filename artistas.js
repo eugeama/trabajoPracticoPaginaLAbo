@@ -1,4 +1,3 @@
-// artistas.js
 const artistasPop = [
   {
     nombre: "Taylor Swift",
