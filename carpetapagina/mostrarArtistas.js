@@ -1,3 +1,4 @@
+// mostrarArtistas.js
 document.addEventListener("DOMContentLoaded", () => {
   const contenedor = document.querySelector('.fotos-artistas .row');
 
